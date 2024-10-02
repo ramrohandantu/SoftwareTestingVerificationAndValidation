@@ -1,0 +1,2472 @@
+V4.3 Ma4nB1
+i6
+ILa4nB1!2 4.3 spell.1 Fe1 2@ T1 "" 
+ILa4nB1!2 4.3 spell.2 Le1 2@ T1 "" 
+ILa4nB1!2 4.3 spell.3 Te1 2@ T1 "" 
+ILa4nB1!2 4.3 spell.4 Ye1 2@ T1 "" 
+ILa4nB1 Ma4nB1 4.3 spell.5 _e1 2@ T1 "" 
+IMa4nB1!2 4.3 spell.6 ee1 2@ T1 "" 
+M4
+sh
+Sspell.c hE=c?1 2?>aY3
+Sconfig.h hE=c?1 <EUSY3
+Sgetopt.h hE=c?1 RoPiL
+Sstr.h hE=c?1 MN<L>3
+S/usr/include/stdio.h T=I3>1 1ODX[1
+S/usr/include/sys/feature_tests.h HYW`=1 eARUV3
+S/usr/include/sys/ccompile.h TmGl11 0@UCK2
+S/usr/include/sys/isa_defs.h `m\X=1 aZZeP3
+S/usr/include/iso/stdio_iso.h I5g931 6g0B32
+S/usr/include/sys/va_list.h XmGl11 76`;B2
+S/usr/include/stdio_tag.h FmGl11 dkL?:3
+S/usr/include/stdio_impl.h I?V^61 fCiNk3
+S/usr/include/iso/stdio_c99.h FmGl11 U_g35
+S/usr/include/stdlib.h keik@1 ZdT8\2
+S/usr/include/iso/stdlib_iso.h FmGl11 o9>fQ1
+S/usr/include/iso/stdlib_c99.h FmGl11 a\RGJ1
+S/usr/include/sys/types.h 2fik@1 :o3c8
+S/usr/include/sys/machtypes.h 7nGl11 lBALj3
+S/usr/include/sys/int_types.h UmGl11 =hEjf2
+S/usr/include/sys/select.h WmGl11 2A?CC
+S/usr/include/sys/time_impl.h Q?V^61 V3UJm3
+S/usr/include/sys/time.h 2fik@1 KVU^g1
+S/usr/include/time.h 48_S71 Q3dP>
+S/usr/include/iso/time_iso.h FmGl11 <Z]@n
+S/usr/include/ctype.h EmGl11 ]Nd@A
+S/usr/include/iso/ctype_iso.h FmGl11 <CV1?1
+S/usr/include/iso/ctype_c99.h FmGl11 n@k_[1
+S/usr/include/errno.h EmGl11 ED;lH3
+S/usr/include/sys/errno.h UmGl11 fo`N?
+S/usr/include/memory.h EmGl11 _GF@G1
+S/usr/include/pwd.h EmGl11 n]bnK
+S/usr/include/signal.h FmGl11 mQUWn2
+S/usr/include/iso/signal_iso.h FmGl11 3ZbX82
+S/usr/include/sys/iso/signal_iso.h YmGl11 @C`TA2
+S/usr/include/sys/unistd.h 2fik@1 670B7
+S/usr/include/sys/signal.h WmGl11 HGnVg3
+S/usr/include/sys/siginfo.h WmGl11 [4M0\
+S/usr/include/sys/machsig.h 7nGl11 8aZ0?3
+S/usr/include/sys/procset.h [=I3>1 BAGGM3
+S/usr/include/stdarg.h FmGl11 _:K1[1
+S/usr/include/iso/stdarg_iso.h FmGl11 kS<g91
+S/usr/include/sys/va_impl.h XmGl11 HXoEN
+S/usr/include/iso/stdarg_c99.h FmGl11 3`c:21
+S/usr/include/sys/file.h Z=I3>1 :6;R:1
+S/usr/include/sys/t_lock.h XmGl11 ]TmbK1
+S/usr/include/sys/machlock.h 7nGl11 Qma2[2
+S/usr/include/sys/param.h 1fik@1 BiFG22
+S/usr/include/sys/mutex.h [=I3>1 W`AQi2
+S/usr/include/sys/rwlock.h GiHe81 j@j<_
+S/usr/include/sys/semaphore.h WmGl11 `9I>O1
+S/usr/include/sys/condvar.h oeik@1 6>8313
+S/usr/include/sys/stat.h [3hF<1 F7JF[3
+S/usr/include/sys/stat_impl.h 7nGl11 WLNQ[
+S/usr/include/unistd.h I?V^61 GNW?Y1
+S/usr/include/string.h H?V^61 ]ElS63
+S/usr/include/iso/string_iso.h FmGl11 6X8Qk3
+aj> cCVVo
+T6
+A1!6
+A1 1 2 2 1 3
+A1!6
+A1 1 2 2 1 3
+A1 1 2 2 1 3
+A1 1 2 2 1 3
+A1!6
+A!2 1 1 0 2
+A
+A
+A!2 1 1 
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A!5 1
+A!5 1
+A
+A
+A
+A1!6
+A
+A
+A
+A1!6
+A
+A
+A
+A1!6
+A1!6
+A1!6
+A1!6
+A1!6
+A2!6
+A2!6
+A
+A1 1 !2 1 1
+A2!6
+A1!6
+A1!6
+A
+A1 1 2 2 1 3
+A
+A1!6
+A1!6
+A!2 1 1 0 2
+A
+A
+A!2 1 1 
+A
+A
+A
+A
+A
+A
+A
+A!5 1
+A!5 1
+A
+A
+A
+A
+A
+A
+A1!6
+A
+A
+A
+A1!6
+A
+A1!6
+A
+A2!6
+A1!6
+A1!6
+A1 1 2 2 1 3
+A1 1 2 2 1 3
+A
+A
+A
+A
+A
+A1!6
+A1!6
+A
+A1!6
+A
+A
+A!2 1 1 0 2
+A1!6
+A
+A
+A!5 1
+A!5 1
+A
+A
+A
+A
+A
+A
+A
+A!2 1 1 
+A
+A
+A
+A
+A
+A
+A1!6
+A
+A
+A
+A
+A
+A
+A
+A1!6
+A
+A
+A1!6
+A
+A
+A
+A
+A2!6
+A1!6
+A1!6
+A1!6
+A1!6
+A1!6
+A1!6
+A1!6
+A1!6
+A1!6
+A3!6
+A
+A3!6
+A3!6
+A3!6
+A1!6
+A
+A3!6
+A=1!6
+A=1!6
+A:1!6
+A:1!6
+A3!6
+A3!6
+A3!6
+A3!6
+A3!6
+A3!6
+A1!6
+A1!6
+A1!6
+A2!6
+A
+A2!6
+A
+A3!6
+A1!6
+A2!6
+A
+A1!6
+A3!6
+A
+A=1!6
+A
+A:1!6
+A3!6
+A1!6
+A2!6
+A
+A2!6
+A1!6
+A1!6
+A2!6
+A1!6
+A1!6
+A
+A
+A3!6
+A3!6
+A1!6
+A=1!6
+A:1!6
+A2!6
+A1!6
+A71!6
+A2!6
+A1!6
+A:1!6
+A:1!6
+A:1!6
+A71!6
+A2!6
+A3!6
+A3!6
+A3!6
+A1!6
+A
+A2!6
+A
+A1!6
+A
+A2!6
+A
+A
+A1!6
+A
+A1!6
+A
+A
+A3!6
+A
+A1!6
+A
+A=1!6
+A
+A:1!6
+A
+A
+A2!6
+A
+A1!6
+A3!6
+A:1!6
+A3!6
+A71!6
+A
+A2!6
+A2!6
+A1!6
+A
+A
+A2!6
+A
+A
+A2!6
+A
+A
+A1 2 !2 1 1
+A1 2 !2 1 1
+A81 [1 !2 81!2
+A
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A
+A81 [1 !2 81!2
+A1 2 !2 1 1
+A
+A81 [1 !2 81!2
+A1 2 !2 1 1
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A1 2 !2 1 1
+A
+A
+A1 2 !2 1 1
+A
+A81 [1 !2 81!2
+A
+A81 [1 !2 81!2
+A1 2 !2 1 1
+A71 Y1 !2 71!2
+A
+A1 2 !2 1 1
+A1 2 !2 1 1
+A71 Y1 !2 71!2
+A
+A81 [1 !2 81!2
+A1 2 !2 1 1
+A71 Y1 !2 71!2
+A
+A
+A
+A1 2 !2 1 1
+A71 Y1 !2 71!2
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A1 2 !2 1 1
+A71 Y1 !2 71!2
+A
+A
+A1 2 !2 1 1
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A1 2 !2 1 1
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A
+A
+A81 [1 !2 81!2
+A
+A71 Y1 !2 71!2
+A1 2 !2 1 1
+A1 2 !2 1 1
+A
+A1 2 !2 1 1
+A71 Y1 !2 71!2
+A
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A
+A81 [1 !2 81!2
+A
+A
+A81 [1 !2 81!2
+A1 2 !2 1 1
+A71 Y1 !2 71!2
+A
+A
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A?2 G3 !2 ?2!2
+A81 [1 !2 81!2
+A?2 G3 !2 ?2!2
+A?2 G3 !2 ?2!2
+A?2 G3 !2 ?2!2
+A?2 G3 !2 ?2!2
+A
+A?2 G3 !2 ?2!2
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A71 \1 !2 71!2
+A^ 31 !2 ^!2
+AF Q !2 F!2
+Aa ;1 !2 a!2
+AF Q !2 F!2
+A0 4 
+A
+A
+AF Q !2 F!2
+A
+A
+A
+A
+A
+AF Q !2 F!2
+A
+AF Q !2 F!2
+AF Q !2 F!2
+A]2 B4 !2 ]2!2
+AG2 a3 !2 G2!2
+AG2 a3 !2 G2!2
+A1 1 !2 1 1
+AF2 `3 !2 F2!2
+AF Q !2 F!2
+A
+AF Q !2 F!2
+A
+A
+A
+A
+A
+A
+A?2 G3 !2 ?2!2
+A
+A?2 G3 !2 ?2!2
+A81 [1 !2 81!2
+A71 \1 !2 71!2
+A81 [1 !2 81!2
+A
+A^ 31 !2 ^!2
+AI Y !2 I!2
+AF Q !2 F!2
+AH R !2 H!2
+A
+AF Q !2 F!2
+A0 4 
+AF M !2 F!2
+A
+A0 4 
+A
+A
+A
+A
+A
+AF Q !2 F!2
+A
+A
+A
+A
+A
+AF Q !2 F!2
+A
+AF Q !2 F!2
+AG2 a3 !2 G2!2
+AF Q !2 F!2
+A1 1 !2 1 1
+AF2 `3 !2 F2!2
+A
+A
+A
+A
+A81 [1 !2 81!2
+A71 \1 !2 71!2
+A?2 G3 !2 ?2!2
+A?2 G3 !2 ?2!2
+A?2 G3 !2 ?2!2
+A?2 G3 !2 ?2!2
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A71 \1 !2 71!2
+A71 \1 !2 71!2
+A^ 31 !2 ^!2
+A^ 31 !2 ^!2
+AF Q !2 F!2
+AF Q !2 F!2
+AF Q !2 F!2
+AF Q !2 F!2
+A0 4 
+A0 4 
+A
+A
+A
+A
+A]2 B4 !2 ]2!2
+A]2 B4 !2 ]2!2
+AF Q !2 F!2
+AG2 a3 !2 G2!2
+AF Q !2 F!2
+A12 @3 !2 12!2
+A1 1 !2 1 1
+A1 1 !2 1 1
+A1 1 !2 1 1
+A
+AF2 `3 !2 F2!2
+AF2 `3 !2 F2!2
+AE P !2 E!2
+A12 @3 !2 12!2
+A
+A
+A
+A
+A?2 G3 !2 ?2!2
+A
+A?2 G3 !2 ?2!2
+A81 [1 !2 81!2
+A71 \1 !2 71!2
+A
+A81 [1 !2 81!2
+A^ 31 !2 ^!2
+AI Y !2 I!2
+AF Q !2 F!2
+AH R !2 H!2
+A
+AF Q !2 F!2
+A0 4 
+AF M !2 F!2
+A0 4 
+A
+A
+A
+A
+A
+A
+AF Q !2 F!2
+A
+A
+AF Q !2 F!2
+A
+AG2 a3 !2 G2!2
+AF Q !2 F!2
+A
+AF Q !2 F!2
+AF Q !2 F!2
+A12 @3 !2 12!2
+A
+A
+A
+A
+AA2 G3 1 1 A2!2
+AA2 G3 1 1 A2!2
+AA2 G3 1 1 A2!2
+AA2 G3 1 1 A2!2
+AA2 G3 1 1 A2!2
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+AA2 G3 1 1 A2!2
+A
+A
+A
+A
+A
+AA2 G3 1 1 A2!2
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A1!6
+A1!6
+A
+A1!6
+A1!6
+A
+A1!6
+A
+A
+A1!6
+A
+A
+A1!6
+A
+A
+A1!6
+A1!6
+A
+A1!6
+A
+A1!6
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A1!6
+A
+A1!6
+A
+A1!6
+A1!6
+A1!6
+A
+A
+A!2 1 1 
+A
+A1!6
+A1!6
+A1!6
+A1!6
+A1!6
+A1!6
+A1!6
+A1!6
+A!2 1 1 
+AS!2 !2 S!2
+AR!2 !2 R!2
+AR!2 !2 R!2
+A1 1 !2 1 1
+A7 7 !2 7 7
+A6 6 !2 6 6
+A6 6 !2 6 6
+A6 6 !2 6 6
+A
+A
+A
+A1 1 !2 1 1
+A1 1 !2 1 1
+A1 1 !2 1 1
+A
+A2 3 !2 3 2
+A1 1 !2 1 1
+A1 2 !2 2 1
+A
+A
+A
+A1 2 !2 1 1
+A1 2 !2 2 1
+A1 2 !2 2 1
+A!4 1 
+A!4 1 
+A1 2 !2 1 1
+A
+A
+A1 2 !2 1 1
+A1 2 !2 1 1
+A1 2 !2 1 1
+A
+A
+A1 2 !2 1 1
+A1 2 !2 1 1
+A!2 1 1 
+A1 1 !2 1 1
+AR!2 !2 R!2
+A1 1 !2 1 1
+AR!2 !2 R!2
+A
+A
+A1 1 !2 1 1
+A6 6 !2 6 6
+A1 1 !2 1 1
+A6 6 !2 6 6
+A
+A
+A1 1 !2 1 1
+A1 2 !2 2 1
+A1 1 !2 1 1
+A
+A1 2 !2 2 1
+A
+A
+A
+A
+A1 2 !2 1 1
+A
+A!4 1 
+A1 2 !2 1 1
+A
+A1 2 !2 1 1
+A
+A1 2 !2 1 1
+A1!6
+A1!6
+A1!6
+A1!6
+A1!6
+A1!6
+A1!6
+A1!6
+A1 1 !2 1 1
+AS!2 !2 S!2
+AS!2 !2 S!2
+AR!2 !2 R!2
+AR!2 !2 R!2
+A1 1 !2 1 1
+AQ!2 !2 Q!2
+A
+A7 7 !2 7 7
+A7 7 !2 7 7
+A1 1 !2 1 1
+A6 6 !2 6 6
+A6 6 !2 6 6
+A
+A1 1 !2 1 1
+A5 5 !2 5 5
+A
+A6 6 !2 6 6
+A6 6 !2 6 6
+A6 6 !2 6 6
+A1 1 !2 1 1
+A5 5 !2 5 5
+A
+A
+A
+A1 2 !2 2 1
+A1 1 !2 1 1
+A1 2 !2 2 1
+A!4 1 
+A
+A0 1 
+A
+A1 2 !2 2 1
+A!4 1 
+A!4 1 
+A!4 1 
+A
+A
+A
+A
+A
+A
+A
+A
+A1 2 !2 1 1
+A
+A
+A1 2 !2 1 1
+A1 2 !2 1 1
+A
+A1 2 !2 1 1
+A1 1 !3 1
+A!4 1 
+A
+A0 1 
+A1 1 !2 1 1
+A!2 1 1 
+A!2 1 1 
+A1 1 !2 1 1
+A1 1 !2 1 1
+AR!2 !2 R!2
+A1 1 !2 1 1
+A
+A1 1 !2 1 1
+AR!2 !2 R!2
+AQ!2 !2 Q!2
+A1 1 !2 1 1
+A
+A1 1 !2 1 1
+AR!2 !2 R!2
+A
+AQ!2 !2 Q!2
+A
+A1 1 !2 1 1
+A
+A
+A
+A6 6 !2 6 6
+A1 1 !2 1 1
+A
+A1 1 !2 1 1
+A5 5 !2 5 5
+A1 1 !2 1 1
+A
+A
+A
+A6 6 !2 6 6
+A
+A1 1 !2 1 1
+A
+A5 5 !2 5 5
+A1 1 !2 1 1
+A
+A1 2 !2 2 1
+A1 1 !2 1 1
+A
+A1 1 !2 1 1
+A
+A!4 1 
+A
+A
+A1 1 !2 1 1
+A0 1 
+A
+A1 2 !2 2 1
+A
+A
+A
+A
+A
+A
+A
+A1 2 !2 1 1
+A
+A
+A1 2 !2 1 1
+A!4 1 
+A1 2 !2 1 1
+A
+A1!6
+A1!6
+A1!6
+A1!6
+A1!6
+A
+A
+A1!6
+A1!6
+A1!6
+A
+A1!6
+A1!6
+A1!6
+A
+A1!6
+A
+A
+A
+A1!6
+A!2 1 1 
+A
+A
+A1 1 !2 1 1
+A
+A
+A
+A1!6
+A
+A
+A
+A1!6
+A
+A
+A1!6
+A1!6
+A
+A
+A1!6
+A
+A1!6
+A
+A
+A!2 1 1 
+A1 1 !2 1 1
+A
+A
+A
+A
+A1!6
+A1!6
+A1!6
+A1!6
+A1!6
+A1!6
+A1!6
+A
+A1!6
+A1!6
+A1!6
+A
+A1!6
+A1!6
+A1!6
+A
+A
+A
+A
+A
+A!2 1 1 
+A
+A
+A1 1 !2 1 1
+A
+A
+A
+A1!6
+A
+A
+A
+A1!6
+A1!6
+A
+A
+A1!6
+A1!6
+A
+A
+A1!6
+A
+A
+A
+A
+A!2 1 1 
+A1 1 !2 1 1
+A
+A
+A
+A
+A!2 2 2 1 
+A!2 2 2 1 
+A!2 1!3 
+A!2 1!3 
+A!4 1 
+A!4 1 
+A!2 1!3 
+A!2 1!3 
+A!2 1!3 
+A
+A!2 1!3 
+A!2 1 1 
+A!4 1 
+A!4 1 
+A!2 1 1 
+A!2 1!3 
+A
+A!2 1 1 
+A!4 1 
+A!2 2 2 1 
+A!2 1!3 
+A!4 1 
+A!2 1 1 
+A!2 1 1 
+A!4 1 
+A!4 1 
+A!2 1 1 
+A3 3 2 2 3 3
+A3 3 2 2 3 3
+A
+A3 3 2 2 3 3
+A
+A3 3 2 2 3 3
+A3 3 2 2 3 3
+A
+A3 3 2 2 3 3
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A3 3 2 2 3 3
+A3 3 2 2 3 3
+A3 3 2 2 3 3
+A3 3 2 2 3 3
+A3 3 2 2 3 3
+A3 3 2 2 3 3
+A3 3 2 2 3 3
+A3 3 2 2 3 3
+A3 3 2 2 3 3
+s<
+Sgetopt1.c hE=c?1 Y\nAk1
+Sconfig.h hE=c?1 <EUSY3
+Sgetopt.h hE=c?1 RoPiL
+S/usr/include/stdio.h T=I3>1 1ODX[1
+S/usr/include/sys/feature_tests.h HYW`=1 eARUV3
+S/usr/include/sys/ccompile.h TmGl11 0@UCK2
+S/usr/include/sys/isa_defs.h `m\X=1 aZZeP3
+S/usr/include/iso/stdio_iso.h I5g931 6g0B32
+S/usr/include/sys/va_list.h XmGl11 76`;B2
+S/usr/include/stdio_tag.h FmGl11 dkL?:3
+S/usr/include/stdio_impl.h I?V^61 fCiNk3
+S/usr/include/iso/stdio_c99.h FmGl11 U_g35
+a4 8Z6PS
+T6
+A1 1 2 2 1 3
+A1 1 2 2 1 3
+A
+A
+sE
+Sgetopt.c hE=c?1 \S09Q
+Sconfig.h hE=c?1 <EUSY3
+S/usr/include/alloca.h DmGl11 k>2V23
+S/usr/include/sys/types.h 2fik@1 :o3c8
+S/usr/include/sys/feature_tests.h HYW`=1 eARUV3
+S/usr/include/sys/ccompile.h TmGl11 0@UCK2
+S/usr/include/sys/isa_defs.h `m\X=1 aZZeP3
+S/usr/include/sys/machtypes.h 7nGl11 lBALj3
+S/usr/include/sys/int_types.h UmGl11 =hEjf2
+S/usr/include/sys/select.h WmGl11 2A?CC
+S/usr/include/sys/time_impl.h Q?V^61 V3UJm3
+S/usr/include/sys/time.h 2fik@1 KVU^g1
+S/usr/include/time.h 48_S71 Q3dP>
+S/usr/include/iso/time_iso.h FmGl11 <Z]@n
+S/usr/include/stdio.h T=I3>1 1ODX[1
+S/usr/include/iso/stdio_iso.h I5g931 6g0B32
+S/usr/include/sys/va_list.h XmGl11 76`;B2
+S/usr/include/stdio_tag.h FmGl11 dkL?:3
+S/usr/include/stdio_impl.h I?V^61 fCiNk3
+S/usr/include/iso/stdio_c99.h FmGl11 U_g35
+Sgetopt.h hE=c?1 RoPiL
+a`> EPX_o2
+T6
+A!2 1 1 0 2
+A!2 3 3 0 G
+A
+A!2 3 3 0 G
+A!2 1 1 0 2
+A!2 2 2 0 E
+A!2 3 3 0 G
+A
+A!2 1 1 0 2
+A!2 2 2 0 E
+A!2 1 1 0 2
+A!2 2 2 0 E
+A!2 1 1 0 2
+A!2 2 2 0 E
+A
+A!2 1 1 0 2
+A!2 1 1 0 2
+A!2 1 1 0 C
+A!2 3 3 0 G
+A
+A!2 2 2 0 E
+A!2 1 1 0 2
+A!2 2 2 0 E
+A!2 1 1 0 2
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A1 1 2 2 1 3
+A1!6
+A
+A1!6
+A
+A1!6
+A
+A
+A1!6
+A1 1 2 2 1 3
+A!2 1 1 0 2
+A1 1 2 2 1 2
+A1 1 2 2 1 2
+A
+A
+A1 1 2 2 1 2
+A!2 1 1 0 1
+A2 3!5
+A1 2!5
+A!2 1 1 0 1
+A1 1 2 2 1 2
+A1 2 1 1 2 1
+A1 1 2 2 1 2
+A!2 1 1 0 1
+A
+A
+A
+A
+A
+A
+A1 1 2 2 1 2
+A1!6
+A1!6
+A1!6
+A!2 1 1 0 1
+A!2 1 1 0 1
+A
+A
+A
+A!2 1 1 0 1
+A!2 1 1 0 1
+A!2 1 1 0 1
+A!2 1 1 0 2
+A!2 1 1 0 2
+A!2 1 1 0 2
+A!2 1 1 0 2
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A!2 1 1 0 2
+A!2 1 1 0 2
+A!2 1 1 0 1
+A!2 1 1 0 2
+A!2 1 1 0 2
+A
+A
+A
+A!2 1 1 0 2
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A!2 1 1 0 2
+A1!6
+A!2 1 1 0 2
+A
+A1!6
+A
+A1!6
+A
+A
+A!2 1 1 0 2
+A1!6
+A!2 1 1 0 1
+A!5 1
+A1 1 2 2 1 2
+A
+A
+A1 1 2 2 1 2
+A
+A
+A!2 1 1 0 1
+A1!6
+A1 2!5
+A1!6
+A!2 1 1 0 1
+A1 2 1 1 2 1
+A
+A!2 1 1 0 1
+A!2 1 1 0 1
+A1!6
+A
+A!2 1 1 0 1
+A
+A
+A
+A
+A
+A
+A1!6
+A!2 1 1 0 1
+A1!6
+A
+A!2 1 1 0 1
+A
+A
+A!2 1 1 0 1
+A
+A
+A!2 1 1 0 1
+A
+A!2 1 1 0 2
+A
+A!2 1 1 0 2
+A
+A!2 1 1 0 2
+A
+A
+A!2 1 1 0 2
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A!2 1 1 0 1
+A!5 1
+A!2 1 1 0 2
+A
+A
+A!2 1 1 0 2
+A
+A
+A
+A!2 1 1 0 2
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A1!6
+A
+A1!6
+A
+A!2 1 1 0 2
+A
+A
+A!2 1 1 0 1
+A
+A!2 1 1 0 1
+A1 2!5
+A1 2!5
+A1!6
+A0 1 !2 1 
+A
+A!2 1 1 0 1
+A!2 1 1 0 1
+A!2 1 1 0 1
+A
+A
+A!2 1 1 0 1
+A1!6
+A!2 1 1 0 1
+A1 1 !2 1 
+A0 1 !2 1 
+A
+A!2 1 1 0 1
+A!2 1 1 0 1
+A!2 1 1 0 1
+A
+A
+A
+A
+A
+A
+A
+A
+A1 1 !2 1 
+A!2 1 1 0 1
+A
+A
+A!2 1 1 0 1
+A!2 1 1 0 1
+A!2 1 1 0 1
+A
+A
+A
+A!2 1 1 0 1
+A!2 1 1 0 1
+A!2 1 1 0 1
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A!2 1 1 0 1
+A!2 1 1 0 1
+A!2 1 1 0 1
+A!2 1 1 0 1
+A
+A
+A
+A!2 1 1 0 1
+A!2 1 1 0 1
+A!2 1 1 0 1
+A
+A
+A!5 1
+A!2 1 1 0 2
+A!2 1 1 0 2
+A!2 1 1 0 1
+A
+A
+A!5 1
+A!2 1 1 0 2
+A!2 1 1 0 2
+A!2 1 1 0 1
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A!5 1
+A!2 1 1 0 2
+A!2 1 1 0 2
+A
+A
+A
+A!2 1 1 0 1
+A!2 1 1 0 2
+A!5 1
+A!2 1 1 
+A
+A
+A
+A
+A
+A
+A!2 1 1 0 2
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A!2 1 1 0 2
+A
+A
+A1!6
+A!2 1 1 0 2
+A
+A1!6
+A1!6
+A
+A
+A!2 1 1 0 2
+A1!6
+A
+A!5 1
+A!2 1 1 0 1
+A
+A!2 1 1 0 1
+A
+A
+A
+A
+A
+A
+A
+A1!6
+A!2 1 1 0 1
+A
+A!2 1 1 0 1
+A
+A
+A1!6
+A1!6
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A!2 1 1 0 1
+A
+A
+A!2 1 1 0 1
+A
+A1!6
+A
+A1!6
+A!2 1 1 0 1
+A
+A1!6
+A1 2!5
+A1!6
+A
+A0 1 !2 1 
+A1!6
+A!2 1 1 0 1
+A
+A1 2 1 1 2 1
+A!2 1 1 0 1
+A1 1 !2 1 
+A!2 1 1 0 1
+A
+A0 1 !2 1 
+A
+A
+A!2 1 1 0 1
+A
+A!2 1 1 0 1
+A
+A
+A
+A
+A
+A!2 1 1 0 1
+A1!6
+A!2 1 1 0 1
+A
+A1!6
+A
+A
+A
+A
+A!2 1 1 0 1
+A
+A!2 1 1 0 1
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A1!6
+A!2 1 1 0 1
+A
+A!2 1 1 0 1
+A1!6
+A
+A
+A
+A
+A
+A
+A
+A1 1 !2 1 
+A
+A
+A
+A!2 1 1 0 1
+A
+A1!6
+A
+A
+A
+A
+A
+A
+A
+A!2 1 1 0 1
+A
+A
+A!2 1 1 0 1
+A
+A
+A
+A
+A
+A
+A!2 1 1 0 1
+A
+A
+A!2 1 1 0 1
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A!2 1 1 0 1
+A!2 1 1 0 2
+A
+A
+A!5 1
+A
+A!2 1 1 0 2
+A!2 1 1 0 1
+A
+A
+A
+A
+A
+A!5 1
+A
+A
+A!2 1 1 0 2
+A!2 1 1 0 1
+A
+A
+A
+A
+A
+A!2 1 1 0 2
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A!5 1
+A!2 1 1 0 1
+A!2 1 1 0 2
+A
+A!2 1 1 0 2
+A
+A
+A
+A
+A!2 1 1 0 2
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+sO
+Sstr.c hE=c?1 SfKPW1
+Sconfig.h hE=c?1 <EUSY3
+Sstr.h hE=c?1 MN<L>3
+S/usr/include/stdio.h T=I3>1 1ODX[1
+S/usr/include/sys/feature_tests.h HYW`=1 eARUV3
+S/usr/include/sys/ccompile.h TmGl11 0@UCK2
+S/usr/include/sys/isa_defs.h `m\X=1 aZZeP3
+S/usr/include/iso/stdio_iso.h I5g931 6g0B32
+S/usr/include/sys/va_list.h XmGl11 76`;B2
+S/usr/include/stdio_tag.h FmGl11 dkL?:3
+S/usr/include/stdio_impl.h I?V^61 fCiNk3
+S/usr/include/iso/stdio_c99.h FmGl11 U_g35
+S/usr/include/stdlib.h keik@1 ZdT8\2
+S/usr/include/iso/stdlib_iso.h FmGl11 o9>fQ1
+S/usr/include/iso/stdlib_c99.h FmGl11 a\RGJ1
+S/usr/include/sys/types.h 2fik@1 :o3c8
+S/usr/include/sys/machtypes.h 7nGl11 lBALj3
+S/usr/include/sys/int_types.h UmGl11 =hEjf2
+S/usr/include/sys/select.h WmGl11 2A?CC
+S/usr/include/sys/time_impl.h Q?V^61 V3UJm3
+S/usr/include/sys/time.h 2fik@1 KVU^g1
+S/usr/include/time.h 48_S71 Q3dP>
+S/usr/include/iso/time_iso.h FmGl11 <Z]@n
+S/usr/include/errno.h EmGl11 ED;lH3
+S/usr/include/sys/errno.h UmGl11 fo`N?
+S/usr/include/stdarg.h FmGl11 _:K1[1
+S/usr/include/iso/stdarg_iso.h FmGl11 kS<g91
+S/usr/include/sys/va_impl.h XmGl11 HXoEN
+S/usr/include/iso/stdarg_c99.h FmGl11 3`c:21
+S/usr/include/string.h H?V^61 ]ElS63
+S/usr/include/iso/string_iso.h FmGl11 6X8Qk3
+a]6 ]GHBP1
+T6
+Aj6 ?: :!2 j6!2
+AP3 :5 7 7 P3!2
+AP3 :5 7 7 P3!2
+AP3 :5 7 7 P3!2
+AP3 :5 7 7 P3!2
+Aj6 ?: :!2 j6!2
+AJ3 55 3 3 J3!2
+AJ3 55 3 3 J3!2
+AP3 :5 7 7 P3!2
+AJ3 55 3 3 J3!2
+AP3 :5 7 7 P3!2
+AP3 :5 7 7 P3!2
+AJ3 55 3 3 J3!2
+AP3 :5 7 7 P3!2
+AJ3 55 3 3 J3!2
+AJ3 55 3 3 J3!2
+AJ3 55 3 3 J3!2
+AP3 :5 7 7 P3!2
+AJ3 55 3 3 J3!2
+AYT 8f a1!2 YT!2
+AYT 8f a1!2 YT!2
+A
+A
+AYT 8f a1!2 YT!2
+A4 8 !2 4 4
+A4 8 !2 4 4
+AYT 8f a1!2 YT!2
+AYT 8f a1!2 YT!2
+A
+AYT 8f a1!2 YT!2
+A
+AUT 0f a1!2 UT!2
+A4 8 !2 4 4
+AYT 8f a1!2 YT!2
+A
+AYT 8f a1!2 YT!2
+AYT 8f a1!2 YT!2
+A
+A4 8 !2 4 4
+A
+A4 8 !2 4 4
+A4 8 !2 4 4
+A
+AYT 8f a1!2 YT!2
+AYT 8f a1!2 YT!2
+A
+AUT 0f a1!2 UT!2
+A4 8 !2 4 4
+A
+AYT 8f a1!2 YT!2
+A
+AYT 8f a1!2 YT!2
+A
+A
+AUT 0f a1!2 UT!2
+A4 8 !2 4 4
+A3!6
+A3!6
+A
+A3!6
+A3!6
+A
+A
+A3!6
+AE!6
+AB!6
+AB!6
+A3!6
+A
+A
+A3!6
+A3!6
+A
+A
+A3!6
+AB!6
+A3!6
+A3!6
+A3!6
+A
+AE!6
+A3!6
+A?!6
+AB!6
+AB!6
+A3!6
+AB!6
+A
+A?!6
+A3!6
+A
+A3!6
+A
+A3!6
+A
+A
+A3!6
+A
+A3!6
+AB!6
+A3!6
+A3!6
+A?!6
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A
+A
+A81 [1 !2 81!2
+A
+A1: 6@ !2 1:!2
+A71 Y1 !2 71!2
+A1: 6@ !2 1:!2
+A1: 6@ !2 1:!2
+A2 4 !2 2 2
+Ao9 2@ !2 o9!2
+A0: 4@ !2 0:!2
+A1 2 !2 1 1
+A0: 4@ !2 0:!2
+A0: 4@ !2 0:!2
+A71 Y1 !2 71!2
+A81 [1 !2 81!2
+A
+A81 [1 !2 81!2
+A
+A
+A81 [1 !2 81!2
+A1: 6@ !2 1:!2
+A
+A2 4 !2 2 2
+Ao9 2@ !2 o9!2
+A0: 4@ !2 0:!2
+A1 2 !2 1 1
+A
+A0: 4@ !2 0:!2
+A71 Y1 !2 71!2
+Ai8 K> !2 i8!2
+A81 [1 !2 81!2
+A
+A1: 6@ !2 1:!2
+A81 [1 !2 81!2
+A1 2 !2 1 1
+Ah8 I> !2 h8!2
+A2 4 !2 2 2
+Ao9 2@ !2 o9!2
+Ao9 2@ !2 o9!2
+A0: 4@ !2 0:!2
+A0: 4@ !2 0:!2
+A
+A0: 4@ !2 0:!2
+A
+A81 [1 !2 81!2
+A81 [1 !2 81!2
+A
+A
+A81 [1 !2 81!2
+A
+A
+A2 4 !2 2 2
+Ao9 2@ !2 o9!2
+A
+A
+A1 2 !2 1 1
+A0: 4@ !2 0:!2
+A1 2 !2 1 1
+A
+Ao9 2@ !2 o9!2
+A
+Ai8 K> !2 i8!2
+A71 Y1 !2 71!2
+A@2 H3 1 1 @2!2
+A@2 H3 1 1 @2!2
+A
+A
+AYG PR 1 1 YG!2
+A@2 H3 !2 @2!2
+AYG PR 1 1 YG!2
+AYG PR 1 1 YG!2
+AYG PR 1 1 YG!2
+A!2 1 1 
+AYG PR !2 YG!2
+A
+AYG PR !2 YG!2
+AYG PR !2 YG!2
+A@2 H3 !2 @2!2
+A@2 H3 1 1 @2!2
+A
+A
+A@2 H3 1 1 @2!2
+A
+AYG PR 1 1 YG!2
+A!2 1 1 
+AYG PR !2 YG!2
+A
+AYG PR !2 YG!2
+A@2 H3 !2 @2!2
+AIE 8O !2 IE!2
+A@2 H3 1 1 @2!2
+A
+AYG PR 1 1 YG!2
+AYG PR !2 YG!2
+AYG PR !2 YG!2
+A
+A@2 H3 1 1 @2!2
+A
+A
+A@2 H3 1 1 @2!2
+A!2 1 1 
+AYG PR !2 YG!2
+AYG PR !2 YG!2
+A
+A@2 H3 !2 @2!2
+AIE 8O !2 IE!2
+A3!6
+A3!6
+A3!6
+A3!6
+A
+A3!6
+AE!6
+AB!6
+AB!6
+A
+A3!6
+AB!6
+A3!6
+A3!6
+A
+A3!6
+AE!6
+A3!6
+AB!6
+A3!6
+A?!6
+AB!6
+A3!6
+AB!6
+AB!6
+A?!6
+A
+A3!6
+A3!6
+A
+A3!6
+AB!6
+A?!6
+A3!6
+A<1 _1 4 4 <1!2
+A<1 _1 4 4 <1!2
+A<1 _1 4 4 <1!2
+A
+A<1 _1 4 4 <1!2
+A9> DE h1!2 9>!2
+Am< UC d1!2 m<!2
+Am< UC d1!2 m<!2
+A
+Am< UC d1!2 m<!2
+A<1 _1 4 4 <1!2
+A
+A
+A<1 _1 4 4 <1!2
+Am< UC d1!2 m<!2
+A<1 _1 4 4 <1!2
+A
+Am< UC d1!2 m<!2
+A<1 _1 4 4 <1!2
+A
+A<1 _1 4 4 <1!2
+A
+A<1 _1 4 4 <1!2
+A9> DE h1!2 9>!2
+Am< UC d1!2 m<!2
+Am< UC d1!2 m<!2
+Am< UC d1!2 m<!2
+A<1 _1 4 4 <1!2
+Aa; fA `1!2 a;!2
+A
+A
+A
+A
+A
+A
+Am< UC d1!2 m<!2
+Am< UC d1!2 m<!2
+Am< UC d1!2 m<!2
+A<1 _1 4 4 <1!2
+Aa; fA `1!2 a;!2
+A
+A
+A
+A<1 _1 4 4 <1!2
+A<1 _1 4 4 <1!2
+A
+Am< UC d1!2 m<!2
+A<1 _1 4 4 <1!2
+A
+A<1 _1 4 4 <1!2
+Aa; fA `1!2 a;!2
+A<1 _1 4 4 <1!2
+A
+A
+A
+Am< UC d1!2 m<!2
+A
+A<1 _1 4 4 <1!2
+Aa; fA `1!2 a;!2
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A<8 3< B!2 <8!2
+A<8 3< B!2 <8!2
+A
+A<8 3< B!2 <8!2
+A
+A<8 3< B!2 <8!2
+A<8 3< B!2 <8!2
+A
+A<8 3< B!2 <8!2
+AN3 =5 3 3 N3!2
+A
+A
+AN3 =5 3 3 N3!2
+AN3 =5 3 3 N3!2
+AN3 =5 3 3 N3!2
+A
+AN3 =5 3 3 N3!2
+A
+AN3 =5 3 3 N3!2
+A
+AN3 =5 3 3 N3!2
+A
+AN3 =5 3 3 N3!2
+AN3 =5 3 3 N3!2
+AN3 =5 3 3 N3!2
+A
+AN3 =5 3 3 N3!2
+AN3 =5 3 3 N3!2
+A
+AYG PR 1 1 YG!2
+A
+AYG PR 1 1 YG!2
+AYG PR 1 1 YG!2
+AYG PR 1 1 YG!2
+AYG PR 1 1 YG!2
+A
+A
+AYG PR 1 1 YG!2
+A
+AYG PR 1 1 YG!2
+A
+A
+A
+AYG PR 1 1 YG!2
+AYG PR 1 1 YG!2
+AYG PR 1 1 YG!2
+AYG PR 1 1 YG!2
+AYG PR 1 1 YG!2
+A
+A
+AYG PR 1 1 YG!2
+A
+A

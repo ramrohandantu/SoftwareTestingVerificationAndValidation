@@ -1,0 +1,22 @@
+v 4.0 595618440
+S "getopt1.c" 1338824056 2068310825 -1 -1
+S "config.h" 1338824056 -376548020 -1 -1
+S "getopt.h" 1338824056 484839394 -1 -1
+S "/usr/include/stdio.h" 1309512548 1805731777 -1 -1
+S "/usr/include/sys/feature_tests.h" 1304590936 -426367883 -1 -1
+S "/usr/include/sys/ccompile.h" 1106345828 -1689365504 -1 -1
+S "/usr/include/sys/isa_defs.h" 1302515568 -522802511 -1 -1
+S "/usr/include/iso/stdio_iso.h" 1126658393 -2092429882 -1 -1
+S "/usr/include/sys/va_list.h" 1106345832 -1842413177 -1 -1
+S "/usr/include/stdio_tag.h" 1106345814 -901918988 -1 -1
+S "/usr/include/stdio_impl.h" 1186620377 -75787018 -1 -1
+S "/usr/include/iso/stdio_c99.h" 1106345814 84900837 -1 -1
+F getopt_long 0 54 1 0 63 1 0 55 1 0 55 11
+B 0 61 1 0 62 75 2 _getopt_internal 0 62 10 0 62 25
+B 0 62 76 0 62 76 12 return 0 62 3 0 62 8
+U 0 1
+F getopt_long_only 0 70 1 0 79 1 0 71 1 0 71 16
+B 0 77 1 0 78 75 2 _getopt_internal 0 78 10 0 78 25
+B 0 78 76 0 78 76 12 return 0 78 3 0 78 8
+U 0 1
+o"-I. -DHAVE_CONFIG_H -g -O"
