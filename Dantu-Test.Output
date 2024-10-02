@@ -114,3 +114,54 @@ teashop
 teashops
 teatime
 teatimes
+Usage: ./spell [OPTION]... [FILE]...
+Try `./spell --help' for more information.
+Usage: ./spell [OPTION]... [FILE]...
+./spell: Ispell version 3.1.20
+Try `./spell --help' for more information.
+shstrtab
+rodata
+compcom
+abbrev
+pubnames
+funcnames
+typenames
+varnames
+symtab
+strtab
+rela
+rela
+rela
+rela
+rela
+pubnames
+rela
+funcnames
+rela
+typenames
+rela
+varnames
+Try `./spell --help' for more information.
+docs/doc3.txt: abe
+docs/doc3.txt: abeam
+docs/doc3.txt: abel
+docs/doc3.txt: abele
+docs/doc3.txt: aberdeen
+docs/doc3.txt: teabag
+docs/doc3.txt: teabags
+docs/doc3.txt: teacloth
+docs/doc3.txt: teacups
+docs/doc3.txt: teak
+docs/doc3.txt: teaparty
+docs/doc3.txt: tearaway
+docs/doc3.txt: teargas
+docs/doc3.txt: tearless
+docs/doc3.txt: tearoom
+docs/doc3.txt: tearooms
+docs/doc3.txt: tearstained
+docs/doc3.txt: teasers
+docs/doc3.txt: teashop
+docs/doc3.txt: teashops
+docs/doc3.txt: teatime
+docs/doc3.txt: teatimes
+Try `./spell --help' for more information.

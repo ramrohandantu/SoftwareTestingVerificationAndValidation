@@ -76,5 +76,25 @@ then
 	
 fi
 TESTCASE=$(expr $TESTCASE + 1)
+./spell -d >> Dantu-Test.Output
+./spell -IVhlnos >> Dantu-Test.Output
+./spell -i >> Dantu-Test.Output
+./spell -d:docs/doc3.txt >> Dantu-Test.Output
+./spell --help >> Dantu-Test.Output
+./spell --dictionary=docs/doc3.txt >> Dantu-Test.Output
+./spell --ispell=spell.c >> Dantu-Test.Output
+./spell -V >> Dantu-Test.Output
+./spell -I >> Dantu-Test.Output
+./spell --z >> Dantu-Test.Output
+./spell str.o >> Dantu-Test.Output
+./spell --ispell >> Dantu-Test.Output
+./spell -- dictionary >> Dantu-Test.Output
+./spell --dictionary : >> Dantu-Test.Output
+./spell --dictionary : --ispell : -d : >> Dantu-Test.Output
+./spell --print-file-name -n docs/doc3.txt >> Dantu-test.Output
+./spell --print-file-name -v docs/doc3.txt >> Dantu-Test.Output
+./spell --diction -p -a --hell -f >> Dantu-Test.Output
+chmod 000 docs/empty_file.txt
+./spell docs/empty_file.txt 
 
 
